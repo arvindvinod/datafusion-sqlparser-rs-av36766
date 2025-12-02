@@ -1,5 +1,5 @@
 #[allow(unused_imports)]
-use datafusion_sqlparser::parser::Parser; 
+use sqlparser::parser::Parser;
 use std::env;
 use std::process;
 
